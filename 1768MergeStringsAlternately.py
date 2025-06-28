@@ -7,3 +7,5 @@ class Solution:
                 c += word2[i]
             i += i
         return c
+
+#Test Branch Code
