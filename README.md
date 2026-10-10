@@ -1,1 +1,1 @@
-# This repo contains the solution of Leet Code 75 code problems.
+# This repo contains the solution to Leet Code 75 code problems.
